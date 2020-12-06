@@ -1,0 +1,11 @@
+{
+  "tileLayer": {
+    "attribution": "",
+    "url": "https://waterdeep.vercel.app/tiles/{z}/{x}/{y}.png"
+  },
+  "defaultLocation": {
+    "lat": 37.779048,
+    "lng": -122.415214
+  },
+  "defaultZoom": 5
+}
